@@ -11,7 +11,7 @@ Hi my name is Kevin Hirsig and I am currently a student at 42 Heilbronn.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khirsig&layout=compact&theme=dark&hide_border=true) [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khirsig&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khirsig&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)              ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khirsig&layout=compact&theme=dark&hide_border=true)
 
 ---
 

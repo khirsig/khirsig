@@ -6,7 +6,7 @@ I am pursuing my coding career since the 14.06.2021.
 ---
 
 * I am currently learning C, C++, C# and Unity.
-* In the future I want to work in the game development industry as this is my big passion.
+* In the future I want to work in the game industry as this is my big passion.
 * My current personal project is working on my own [chess game & engine](https://github.com/khirsig/chess42).
 * For my studies I am recreating some of the [STL C++98](https://github.com/khirsig/ft_containers) (vector, map, stack, set).
 * You can reach me at [LinkedIn](https://www.linkedin.com/in/kevin-hirsig-149086213/) or via Mail.

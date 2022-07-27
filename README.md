@@ -7,6 +7,8 @@ Hi my name is Kevin Hirsig and I am currently a student at 42 Heilbronn.
 * I am currently learning C, C++, C# and Unity
 * In my free time I am currently working on my own chess engine
 * For my studies I am currently recreating some of the STL C++98 (vector, map, stack, set)
-* You can reach me at (img.shields.io/badge/LinkedIn/blue?style=flat&logo=linkedin&labelColor=blue)
+* You can reach me at [img.shields.io/badge/LinkedIn/blue?style=flat&logo=linkedin&labelColor=blue]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khirsig&layout=compact&theme=dark&hide_border=true)
+
+[![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khirsig)](https://github.com/anuraghazra/github-readme-stats)

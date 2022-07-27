@@ -1,12 +1,13 @@
 [![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=khirsig)](https://github.com/mohouyizme/1337-readme)
 
 Hi my name is Kevin Hirsig and I am currently a student at 42 Heilbronn.
+I started my coding career at 14.06.2021.
 
 ---
 
 * I am currently learning C, C++, C# and Unity
-* In my free time I am currently working on my own chess engine
-* For my studies I am currently recreating some of the STL C++98 (vector, map, stack, set)
+* My current personal project is working on my own chess engine
+* For my studies I am recreating some of the STL C++98 (vector, map, stack, set)
 * You can reach me at [LinkedIn](https://www.linkedin.com/in/kevin-hirsig-149086213/) or via Mail.
 
 ---

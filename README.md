@@ -1,7 +1,7 @@
 [![42 Profile Card](https://1337-readme-xi.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=khirsig)](https://github.com/mohouyizme/1337-readme)
 
 Hi my name is Kevin Hirsig and I am currently a student at 42 Heilbronn.  
-I started my coding career at 14.06.2021.
+I am pursuing my coding career since the 14.06.2021.
 
 ---
 

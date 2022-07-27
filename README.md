@@ -9,6 +9,10 @@ Hi my name is Kevin Hirsig and I am currently a student at 42 Heilbronn.
 * For my studies I am currently recreating some of the STL C++98 (vector, map, stack, set)
 * You can reach me at [![LinkedIn](https://img.shields.io/badge/Kevin%20Hirsig-linkedIn-blue)](https://www.linkedin.com/in/kevin-hirsig-149086213/)
 
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khirsig&layout=compact&theme=dark&hide_border=true)
+
+---
 
 [![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khirsig&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

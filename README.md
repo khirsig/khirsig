@@ -3,7 +3,7 @@ I am pursuing my coding career since the 14.06.2021.
 
 ---
 
-* I am currently learning C, C++ and [Unity](https://unity.com/de/solutions/game).
+* I am currently learning C, C++ and [Flutter](https://flutter.dev).
 * My current personal project is getting into the workplace as a Junior-Developer.
 * You can reach me at [LinkedIn](https://www.linkedin.com/in/kevin-hirsig-149086213/) or via Mail.
 

@@ -3,7 +3,7 @@ I am pursuing my coding career since the 14.06.2021.
 
 ---
 
-* I am currently learning [Flutter](https://flutter.dev), [Dart](https://dart.dev) and [Firebase](https://firebase.google.com).
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,flutter,dart,firebase,github,unity,vscode)](https://skillicons.dev)
 * You can reach me at [LinkedIn](https://www.linkedin.com/in/kevin-hirsig-149086213/) or via Mail.
 
 ---

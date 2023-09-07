@@ -1,10 +1,9 @@
-Hi my name is Kevin Hirsig and I am currently a student at 42 Heilbronn.  
+Hi my name is Kevin Hirsig and I am currently an Software Developer Intern working on the [Blaulichtplaner](https://blaulichtplaner.de).  
 I am pursuing my coding career since the 14.06.2021.
 
 ---
 
-* I am currently learning C, C++ and [Flutter](https://flutter.dev).
-* My current personal project is getting into the workplace as a Junior-Developer.
+* I am currently learning [Flutter](https://flutter.dev), [Dart](https://dart.dev) and [Firebase](https://firebase.google.com).
 * You can reach me at [LinkedIn](https://www.linkedin.com/in/kevin-hirsig-149086213/) or via Mail.
 
 ---

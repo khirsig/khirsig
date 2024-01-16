@@ -2,7 +2,7 @@ Hi my name is Kevin Hirsig and I am currently a Software Developer Intern workin
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,flutter,dart,firebase,github,unity,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,c,cpp,github,unity,vscode)](https://skillicons.dev)
 * You can reach me at [LinkedIn](https://www.linkedin.com/in/kevin-hirsig-149086213/) or via Mail.
 
 ---

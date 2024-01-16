@@ -1,5 +1,4 @@
 Hi my name is Kevin Hirsig and I am currently a Software Developer Intern working on the [Blaulichtplaner](https://blaulichtplaner.de).  
-I am pursuing my coding career since the 14.06.2021.
 
 ---
 

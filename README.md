@@ -1,7 +1,3 @@
-Hi my name is Kevin Hirsig and I am currently a Software Developer working on the [Blaulichtplaner](https://blaulichtplaner.de).  
-
----
-
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,c,cpp,github,unity,vscode)](https://skillicons.dev)
 * You can reach me at [LinkedIn](https://www.linkedin.com/in/kevin-hirsig-149086213/) or via Mail.
 
